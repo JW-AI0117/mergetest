@@ -1,0 +1,8 @@
+total 384
+drwxr-xr-x 1 sun31 197609     0 May  9 07:09 ./
+drwxr-xr-x 1 sun31 197609     0 May  9 07:07 ../
+drwxr-xr-x 1 sun31 197609     0 May  9 07:09 .git/
+-rw-r--r-- 1 sun31 197609  7883 May  9 07:09 .gitignore
+-rw-r--r-- 1 sun31 197609 35823 May  9 07:09 LICENSE
+-rw-r--r-- 1 sun31 197609    80 May  9 07:09 README.md
+-rw-r--r-- 1 sun31 197609     0 May  9 07:13 a1.text
