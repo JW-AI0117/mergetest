@@ -1,4 +1,13 @@
-total 384
+안녕하세요 나는 아쟝ㅍㄹ 압나더 
+// 1. $_SERVER로 상황 파악
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+
+    // 2. 파일 업로드 등 처리 완료 후
+
+    // 3. header로 결과 페이지 이동 지시
+    header("Location: success.php");
+}
+불필요한 파일입니다.
 drwxr-xr-x 1 sun31 197609     0 May  9 07:09 ./
 drwxr-xr-x 1 sun31 197609     0 May  9 07:07 ../
 drwxr-xr-x 1 sun31 197609     0 May  9 07:09 .git/
