@@ -1,8 +1,17 @@
 ./
-../
+./
 .git/
 .gitignore
 LICENSE
 README.md
 a1.text
 a2.txt
+=======
+안녕하세요 이파일은 이제 수정될 예정입니다
+int main() {
+
+	char str[] = {"안녕하세요"};
+	printf("%s",str);
+
+}
+>>>>>>> dev2
